@@ -7,6 +7,8 @@ only person
 
 get SSD model MR：**15%MR**
 
+first add pdollar_toolbox and code3.2.1 to your matlab path, then replace the dbInfo.m file.
+
 1.run SSD_Caltech2VOC.m
 pic-->jpg  anno-->txt
 
